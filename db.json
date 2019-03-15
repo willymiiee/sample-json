@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "username": "willymiiee",
+        },
+    ],
+    "books": [
+        {
+            "id": 1,
+            "title": "Muincik"
+        }
+    ],
+    "test": {
+        "dor": "dar"
+    }
+}
